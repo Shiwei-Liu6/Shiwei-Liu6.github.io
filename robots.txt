@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Shiwei-Liu6.github.io/al-folio/sitemap.xml
+Sitemap: https://shi-wei-liu.github.io/sitemap.xml
